@@ -1,0 +1,2 @@
+-- Player data is seeded from backend/src/main/java/com/ipl/Seeder.java on first start.
+-- Statistics columns are intentionally NULL: fill them from a source/season of your choice via Admin > Edit player.
